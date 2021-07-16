@@ -1,0 +1,18 @@
+.first {
+    background-color: cornsilk;
+}
+.second {
+    border-style: outset;
+     border-color: violet; 
+     border-width: 3mm;
+     background-color: rgb(240, 226, 235);
+}
+.fns {
+background-color:darkmagenta;
+text-align: center;
+font-size: large;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo {
+    margin-left: 44%;
+}
